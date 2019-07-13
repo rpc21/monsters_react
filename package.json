@@ -2,7 +2,7 @@
   "name": "monsters_rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:rpc21.github.io/react_monsters",
+  "homepage": "https://rpc21.github.io/monsters_react",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
